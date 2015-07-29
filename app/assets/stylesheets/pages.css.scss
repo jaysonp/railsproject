@@ -81,3 +81,24 @@ body {
     border-bottom: 0;
   }
 }
+
+/* FOOTER */
+#f {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #222222;
+  position: absolute;
+  min-width: 80%;
+  border-radius: 4px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#f i {
+  
+  font-size: 35px;
+}
+
+#f a {
+  color: white;
+}
