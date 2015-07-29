@@ -13,3 +13,36 @@
  *= require_tree .
  *= require_self
  */
+/* Custom page header */
+.header {
+  padding-bottom: 20px;
+  border-bottom: 1px solid #e5e5e5;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+/* Make the masthead heading the same height as the navigation */
+.header h3 {
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 40px;
+}
+/* FOOTER */
+#f {
+  
+  
+  position: absolute;
+  min-width: 100%;
+  border-radius: 4px;
+  margin-left: auto;
+  margin-right: auto;
+  border-top: 1px solid #e5e5e5;
+}
+
+#f i {
+  
+  font-size: 35px;
+}
+
+#f a {
+  color: #222222;
+}
