@@ -27,22 +27,20 @@
   line-height: 40px;
 }
 /* FOOTER */
-#f {
-  
+.footer {
   
   position: absolute;
   min-width: 100%;
-  border-radius: 4px;
   margin-left: auto;
   margin-right: auto;
   border-top: 1px solid #e5e5e5;
 }
 
-#f i {
+.footer i {
   
   font-size: 35px;
 }
 
-#f a {
+.footer a {
   color: #222222;
 }

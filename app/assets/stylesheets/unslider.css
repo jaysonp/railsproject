@@ -2,6 +2,7 @@
 .banner { 
 position: relative; 
 overflow: auto; 
+padding-bottom: 50px;
 }
 .banner li { 
 list-style: none; 

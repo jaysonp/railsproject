@@ -5,7 +5,7 @@
 /* Space out content a bit */
 body {
   padding-top: 20px;
-  padding-bottom: 20px;
+  /*padding-bottom: 20px;*/
 }
 
 /* Everything but the jumbotron gets side spacing for mobile first views */
@@ -76,24 +76,4 @@ body {
   .jumbotron {
     border-bottom: 0;
   }
-}
-/* FOOTER */
-#f {
-  
-  
-  position: absolute;
-  min-width: 100%;
-  border-radius: 4px;
-  margin-left: auto;
-  margin-right: auto;
-  border-top: 1px solid #e5e5e5;
-}
-
-#f i {
-  
-  font-size: 35px;
-}
-
-#f a {
-  color: #222222;
 }
